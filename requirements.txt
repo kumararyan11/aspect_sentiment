@@ -1,0 +1,8 @@
+torch
+transformers>=4.44
+scikit-learn>=1.4
+pandas
+numpy
+emoji>=2.10
+tqdm
+streamlit>=1.36
